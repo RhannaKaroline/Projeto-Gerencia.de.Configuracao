@@ -1,4 +1,4 @@
-# Projeto — Gerência de Configuração de Software
+# Projeto — Gerência de Configuração 
 
 ## Sobre o projeto
 
@@ -29,6 +29,6 @@ Integrante:
 
 ### 📌 Disciplina
 
-**Gerência de Configuração de Software**
+**Gerência de Configuração**
 
 **Projeto acadêmico em desenvolvimento.**
