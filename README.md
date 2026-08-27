@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este repositório foi criado para o desenvolvimento das atividades e do projeto da disciplina de **Gerência de Configuração de Software**.
+Este repositório foi criado para o desenvolvimento das atividades e do projeto da disciplina de **Gerência de Configuração**.
 
 O projeto será desenvolvido de forma colaborativa por uma equipe de **três integrantes**, aplicando conceitos e práticas relacionados ao gerenciamento, organização e controle das mudanças realizadas durante o desenvolvimento de software.
 
