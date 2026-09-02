@@ -21,8 +21,8 @@ Ao longo da disciplina, o repositório será utilizado para registrar a evoluç�
 Integrante:   
 * Integrante 1 : Andreza Rodrigues de Oliveira - 22450924.
 * Integrante 2 : Alejandro da Costa Monteiro- 22154519
-* Integrante 2 : Emelly Cristina Grana de Oliveira - 22402234.
-* Integrante 3 : Rhanna Karoline Batista Ribeiro - 22402226.
+* Integrante 3 : Emelly Cristina Grana de Oliveira - 22402234.
+* Integrante 4 : Rhanna Karoline Batista Ribeiro - 22402226.
 
 > **Observação:** O tema e as funcionalidades do sistema serão definidos posteriormente pela equipe e documentados neste repositório.
 
